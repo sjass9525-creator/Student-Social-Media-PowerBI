@@ -1,1 +1,1 @@
-# Student-Social-Media-PowerBI
+![Dashboard Screenshot](dashboard.png)
